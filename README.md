@@ -1,0 +1,2 @@
+# PIP_DynamicJudgment
+Dynamic Judgment Node（动态判断节点）允许您基于文本匹配来选择两张输入图像中的一张作为输出。它通过比较判断条件文本与每张图像相关联的关键词列表来做出决策。
