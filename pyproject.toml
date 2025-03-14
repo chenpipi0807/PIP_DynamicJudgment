@@ -1,0 +1,15 @@
+[project]
+name = "comfyui_pip_dynamic_judgment"
+description = "A ComfyUI custom node that provides dynamic judgment functionality for prompt evaluation and conditional workflows."
+version = "1.0.0"
+license = {text = "MIT"}
+dependencies = ["# No specific external requirements needed for this node", "# Base ComfyUI environment is sufficient"]
+
+[project.urls]
+Repository = "https://github.com/chenpipi0807/PIP_DynamicJudgment"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "PIP Dynamic Judgment"
+Icon = ""
